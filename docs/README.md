@@ -147,7 +147,7 @@ We welcome improvements to our documentation! To suggest changes:
 
 | Meeting | Frequency | Duration | Participants |
 |---------|-----------|----------|--------------|
-| Daily Standup | 2x/week (or daily) | 15 min | Delivery team |
+| Daily Standup | Daily (or as agreed) | 15 min | Delivery team |
 | PM-PdM Sync | Weekly | 30-60 min | PM, Product Manager |
 | Delivery Sync | Weekly | 30-60 min | Delivery team, PM, PdM |
 | Sprint Demo | End of sprint | 30-60 min | Team + stakeholders |
