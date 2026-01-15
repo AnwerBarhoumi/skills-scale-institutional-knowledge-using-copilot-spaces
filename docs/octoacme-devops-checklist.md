@@ -243,6 +243,6 @@ Comprehensive checklist for DevOps Engineers to ensure reliable, secure, and eff
 ---
 
 ## References
-- See [Execution & Tracking](octoacme-execution-and-tracking.md) for CI/CD workflows
-- See [Release & Deployment](octoacme-release-and-deployment.md) for release processes
+- See [Execution & Tracking](octoacme-execution-and-tracking.md) for PR workflows and testing requirements
+- See [Release & Deployment](octoacme-release-and-deployment.md) for deployment checklist and rollback procedures
 - See [Risks & Communication](octoacme-risks-and-communication.md) for incident communication

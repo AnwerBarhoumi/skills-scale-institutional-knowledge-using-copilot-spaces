@@ -146,5 +146,5 @@ Comprehensive checklist for QA Leads and team members to ensure thorough testing
 ---
 
 ## References
-- See [Execution & Tracking](octoacme-execution-and-tracking.md) for CI/CD quality gates
-- See [Release & Deployment](octoacme-release-and-deployment.md) for go-live criteria
+- See [Execution & Tracking](octoacme-execution-and-tracking.md) for PR workflows and CI configuration
+- See [Release & Deployment](octoacme-release-and-deployment.md) for pre-release requirements and deployment checklist
